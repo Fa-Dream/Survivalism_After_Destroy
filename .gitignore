@@ -1,0 +1,59 @@
+# 编译生成文件
+Binaries/
+Intermediate/
+Build/
+DerivedDataCache/
+*.sln
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+
+# 生成的项目文件
+*.xcodeproj/
+*.xcworkspace/
+*.code-workspace
+
+# 调试文件
+*.pdb
+*.idb
+*.ilk
+*.exp
+*.obj
+*.tlb
+*.tlh
+*.tmp
+*.temp
+
+# 日志文件
+*.log
+Saved/Backup/
+Saved/Autosaves/
+Saved/Config/Backup/
+
+# 缓存文件
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.cachefile
+*.db
+*.ide
+
+# Visual Studio 相关
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 内容备份
+Content/**/Backup/
+Content/**/Temp/
+
+# 插件编译文件
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
+
+# 崩溃报告
+Saved/Crashes/
